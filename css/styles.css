@@ -1,0 +1,177 @@
+
+body{
+    margin:0;
+    text-align: center;
+    font-family: "Indie+flower", serif;
+}
+
+h1{
+    font-size: 563%;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento";
+    color: #FF5733;
+    
+    
+}
+
+h2 {
+    font-family: 'Monstserrat';
+    font-size: 2.5rem;
+    color: #FF5733;
+    font-weight: normal;
+
+}
+
+h3 {
+    font-family: 'Monstserrat';
+    color:#FB7B6B;
+    font-size: x-large;
+    
+}
+
+.top {
+
+    background-color: #FFB396;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container {
+    margin-top: -140px;
+    position: relative;
+   
+}
+
+.bottom-container {
+    padding: 50px 0 30px 0;
+    background-color:#FFB396;
+    margin-top: 30px;
+    color: white;
+
+
+}
+.cls1{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute; 
+    right:200px;
+    top:20px;
+
+}
+.bottom-cloud {
+
+    position:absolute;
+    left: 200px;
+    bottom: 100px;
+
+}
+
+.footer-link{
+    color:#FB7B6B;
+    margin-left: 30px;
+    text-decoration: none;
+    font-family: 'Montserrat';
+}
+.footer-link:hover {
+    color: white;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.skill1 {
+    width: 15%;
+    float: left;
+    margin-right:30px;
+}
+
+.skill2 {
+    width:15%;
+    float: right;
+    margin-left:30px;
+
+}
+
+hr { 
+    border-style: dotted none none;
+    border-color: #ccbe9c;
+    border-width: 6px;
+    width: 70px;
+    
+}
+
+.btn {
+        background: #EB6440;
+        background-image: -webkit-linear-gradient(top, #EB6440, #E14D2A);
+        background-image: -moz-linear-gradient(top, #EB6440, #E14D2A);
+        background-image: -ms-linear-gradient(top, #EB6440, #E14D2A);
+        background-image: -o-linear-gradient(top, #EB6440, #E14D2A);
+        background-image: linear-gradient(to bottom, #EB6440, #E14D2A);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: 'Monstserrat';
+        color: #ffffff;
+        font-size: 15px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        margin: 30px 0;
+        display: inline-block;
+        
+    
+      }
+      
+.btn:hover {
+        background: #DD5353;
+        background-image: -webkit-linear-gradient(top, #DD5353, #FF6464);
+        background-image: -moz-linear-gradient(top, #DD5353, #FF6464);
+        background-image: -ms-linear-gradient(top, #DD5353, #FF6464);
+        background-image: -o-linear-gradient(top, #DD5353, #FF6464);
+        background-image: linear-gradient(to bottom, #DD5353, #FF6464);
+        text-decoration: none;
+      }
+
+    .andraprofile {
+        border: 10px solid white;
+        border-radius:50%;
+        
+    }
+
+    .profile {
+        margin-bottom: 100px;
+    }
+
+    .prezentare {
+        width: 50%;
+        margin: auto;
+        line-height: 2;
+        font-size: x-large;
+        
+    }
+
+    .prezentare2{
+        width: 100%;
+        margin: auto;
+        line-height: 2;
+        font-size: x-large; }
+
+    .skills {
+        margin-top: 100px;
+    }
+
+    .contact-me{
+
+        margin-top: 100px;
+    }
+
+    .copywrite {
+        color: white;
+        font-size: 0.75rem;
+        padding: 20px 0;
+    }
+    
+   
